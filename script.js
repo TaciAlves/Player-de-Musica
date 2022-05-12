@@ -1,10 +1,10 @@
 let musicas = [
-    {titulo:'As You Fade Away', artista:'NEFFEX', src:'musicas/As You Fade Away - NEFFEX.mp3', 
-    img:'imagens/mus3.jpg'},
-    {titulo:'Thats Whatt It Takes (Clean)', artista:'NEFFEX', src:'musicas/Thats What It Takes (Clean) - NEFFEX.mp3', 
-    img:'imagens/mus2.jpg'},
-    {titulo:'Till I Let Go', artista:'NEFFEX', src:'musicas/Till I Let Go - NEFFEX.mp3', 
-    img:'imagens/mus1.jpg'}
+    {titulo:'As You Fade Away', artista:'NEFFEX', src:'As You Fade Away - NEFFEX.mp3', 
+    img:'mus3.jpg'},
+    {titulo:'Thats Whatt It Takes (Clean)', artista:'NEFFEX', src:'Thats What It Takes (Clean) - NEFFEX.mp3', 
+    img:'mus2.jpg'},
+    {titulo:'Till I Let Go', artista:'NEFFEX', src:'Till I Let Go - NEFFEX.mp3', 
+    img:'mus1.jpg'}
 ];
 
 
